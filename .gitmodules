@@ -1,3 +1,6 @@
 [submodule "eso-brainfuck"]
 	path = eso-brainfuck
 	url = git@github.com:iKryxx/eso-brainfuck.git
+[submodule "eso-ook"]
+	path = eso-ook
+	url = git@github.com:iKryxx/eso-ook.git
